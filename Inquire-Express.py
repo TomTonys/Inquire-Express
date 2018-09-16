@@ -1,5 +1,11 @@
 #!/usr/bin/python2
 #coding:utf-8
+# @Author  : TomTonys
+# @Software: PyCharm
+# @File    : Inquire-Express.py
+# @Time    : 2018/8/16
+# @version : python 2.7
+#API interface comes from http://www.kuaidi100.com
 
 import requests
 import re
